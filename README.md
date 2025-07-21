@@ -1,10 +1,10 @@
 <img src="https://i.imgur.com/8cIHxIT.png" alt="Petit Malbec Banner">
 
-Proyecto Final presentado en Talento Tech, para el curso de Front End JS.
-Para poder ver el despliegue de la primera versión del proyecto, pueden ingresar al siguiente Link:
-https://vstecnic.github.io/TalentoTechFrontEnd/
-Repositorio Anterior:
-https://github.com/vstecnic/TalentoTechFrontEnd
+Proyecto Final presentado en Talento Tech, para el curso de Front End JS.<br>
+Para poder ver el despliegue de la primera versión del proyecto, pueden ingresar al siguiente Link:<br>
+https://vstecnic.github.io/TalentoTechFrontEnd/<br>
+Repositorio Anterior:<br>
+https://github.com/vstecnic/TalentoTechFrontEnd<br>
 --
 En éste nuevo despliegue podrán encontrar algunas mejoras, además de la integración de JS, entre ellas encontrarán:
 - Menú Hamburguesa responsive
